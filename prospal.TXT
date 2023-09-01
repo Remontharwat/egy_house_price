@@ -1,0 +1,25 @@
+here is Egyptian Houses_price Data  project .
+ 
+description of dataset :
+in this dataset we will predict the price of propyrty in egypt using regression models , we have a good database, our database has 27361 values and 11 columns, here we will use the "Egypt_Houses_Price.csv" database that i get it using scraping , starting with analysis of the data, the processing of that data, and the use of machine learning models to achieve our goal, Validate and Evaluate the model to make the best prediction, Deploy model on web app .
+
+data source :
+https://www.kaggle.com/datasets/mohammedaltet/egypt-houses-price
+
+Columns
+
+1- Type : the type of property , included many units types . 
+2- Price : the price of property (our target ) .
+3- Bedrooms : number of bedrooms .
+4- Bathrooms : number of bathrooms . 
+5- Area : the Area of the property by m^2 .
+6- Furnished : is the property Furnished or not .
+7- Level : In what floor the property is .
+8- Compound :  In what Compound the property is .
+9- Payment_Option : Cash or Installment , Cash or Installment .
+10- Delivery_Date : Ready to move, soon, 2022, 2023, 2024, 2025, 2026, 2027, within 6 months .
+11- Delivery_Term :Finished, Semi Finished, Core & Shell or Not Finished .
+12- City : where the unit located .
+
+## knowing that Unknown in this dataset mean is NAN .
+
